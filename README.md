@@ -6,6 +6,8 @@ This application supports the [Getting Started with Python on Heroku](https://de
 
 ## Running Locally
 
+A small change to test a pull request.
+
 Make sure you have Python 3.10 [installed locally](https://docs.python-guide.org/starting/installation/). To push to Heroku, you'll need to install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli), as well as [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup).
 
 ```sh
