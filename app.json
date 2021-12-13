@@ -1,8 +1,8 @@
 {
-  "name": "Start on Heroku: Python",
-  "description": "A barebones Python app, which can easily be deployed to Heroku.",
+  "name": "Real Threads",
+  "description": "A personal project to explore data on the web.",
   "image": "heroku/python",
-  "repository": "https://github.com/heroku/python-getting-started",
+  "repository": "https://github.com/wemhr30/python-getting-started",
   "keywords": ["python", "django" ],
   "addons": [ "heroku-postgresql" ],
   "env": {
