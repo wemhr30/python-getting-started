@@ -18,4 +18,8 @@ urlpatterns = [
     path("", hello.views.index, name="index"),
     path("db/", hello.views.db, name="db"),
     path("admin/", admin.site.urls),
+    path(
+        "favicon.ico",
+        RedirectView.as_view(url=staticfiles_storage.url("favicon.ico")),
+    ),
 ]
